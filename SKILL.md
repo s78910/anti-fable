@@ -1,5 +1,5 @@
 ---
-name: anti-fable
+name: fable4sci
 description: Transform dense technical, scientific, cybersecurity, computing, network, or life-science research questions into clear source-domain-neutral fables for non-specialists. Use when the user asks to allegorize, fable-ize, turn complex research into a metaphorical story, explain without jargon, produce both plain and more imaginative fable versions, or reduce listener association with the original field while preserving the reasoning structure.
 ---
 
